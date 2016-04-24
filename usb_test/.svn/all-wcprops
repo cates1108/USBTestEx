@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/sis/!svn/ver/27207/projects/s2/aps/test/usb_test
+END
+usbtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/sis/!svn/ver/27207/projects/s2/aps/test/usb_test/usbtest.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/sis/!svn/ver/16584/projects/s2/aps/test/usb_test/Makefile
+END
